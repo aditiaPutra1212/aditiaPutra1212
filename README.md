@@ -1,55 +1,66 @@
-# Aditia Putra
+### Hi there, I'm Aditia Putra 👋
 
-Bandar Lampung, Lampung, Indonesia  
-aditiaputra88890@gmail.com | +62 887 4371 25756  
-[linkedin.com/in/aditia-putra](https://linkedin.com/in/aditia-putra/) | [github.com/aditiaPutra1212](https://github.com/aditiaPutra1212)
+<p align="center">
+  <a href="https://linkedin.com/in/aditia-putra">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aditiaputra88890@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-## Ringkasan
-Saya mahasiswa S1 Informatika di Universitas Teknokrat Indonesia dengan fokus pada full‑stack development. Berpengalaman sebagai Backend Developer Intern (TypeScript, Express.js) dalam pengembangan platform pencari kerja komersial. Terbiasa bekerja dengan tim frontend (Next.js) dan alat industri seperti VS Code & GitHub. Memiliki kemampuan di backend, API design, serta integrasi IoT dan desain UI/UX.
+---
 
-## Pengalaman
-**PT Hempart Indonesia — Backend Developer Intern**  
-Jakarta Selatan, Ags – Des 2025
-- Terlibat dalam pengembangan website pencari kerja "Arkwork".
-- Merancang, membangun, dan mengelola API menggunakan TypeScript & Express.js.
-- Berkolaborasi dengan tim frontend untuk integrasi layanan dengan Next.js.
+I'm a Computer Science student at **Universitas Teknokrat Indonesia** with a deep passion for full-stack web development. I thrive on turning complex problems into clean, efficient, and scalable software solutions.
 
-**Mahasiswa Kedokteran — Project Contributor**  
-Bandar Lampung, Jan – Jun 2024
-- Mengembangkan sistem IoT pendeteksi detak jantung dengan tampilan data real‑time di web.
-- Mengintegrasikan perangkat keras IoT dan antarmuka web; melakukan troubleshooting sistem.
+My professional focus evolved from UI/UX design to robust **Backend Development**, specializing in building and managing APIs.
 
-## Pendidikan
-**Universitas Teknokrat Indonesia** — Bachelor of Computer Science (S.Kom.), Informatika  
-Bandar Lampung, Jun 2023 – Present  
-GPA: 3.77 / 4.00
+* 🔭 I recently completed a **Backend Developer Internship**, where I built APIs for a commercial job-seeking platform in the Oil & Gas industry using **TypeScript** and **Express.js**.
+* 💻 I love working across the entire stack, connecting a solid backend to a functional frontend (especially with **Next.js**).
+* 🚀 In my university, I serve as the **Vice President** of the Programming Organization (PROTEK) and the **Head of the Competitive Programming Division**.
+* 🌱 I'm always learning and exploring new technologies to improve my craft.
 
-## Organisasi
-**Programming Teknokrat Indonesia (PROTEK)** — Vice President (Wakil Ketua)  
-Bandar Lampung, 2024 – Present
-- Mengelola koordinasi divisi, memastikan pencapaian timeline dan pelaksanaan kegiatan.
+---
 
-**Programming Teknokrat Indonesia (PROTEK)** — Head of Competitive Programming Division  
-Bandar Lampung, 2023 – Present
-- Memimpin persiapan lomba, menyusun strategi pelatihan anggota.
+### 🛠️ My Tech Stack
 
-## Sertifikat
-- Dicoding — Junior Front-end Web Developer (Dec 2024)  
-- BPPTIK — Pemasaran Digital dengan AI (Mei 2025)  
-- Pusat Pengembangan Literasi Digital — Pengantar Mindset Digital 1 (Mei 2025)
+My toolkit includes a variety of technologies for building modern web applications.
 
-## Prestasi
-- Juara II — Divisi Robot Tematik (Regional, Mei–Jun 2024)
+#### **Frontend**
+<p>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+</p>
 
-## Keahlian
-- Bahasa: Indonesia, English  
-- Programming: TypeScript, JavaScript, PHP, Python, C++, C#, HTML, CSS  
-- Framework/Libraries: Next.js, Express.js, Bootstrap  
-- Desain & Produktivitas: Figma, Canva, CorelDRAW, Adobe Photoshop, Blender, Unity  
-- Tools: Visual Studio Code, GitHub, Microsoft Office  
-- Keahlian Teknis: Backend Development, API Development, Database Management, Web Development, UI/UX Design, IoT Integration
+#### **Backend**
+<p>
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-## Kontak
-Email: aditiaputra88890@gmail.com  
-LinkedIn: https://linkedin.com/in/aditia-putra/  
-GitHub: https://github.com/aditiaPutra1212
+#### **Tools, Design & Others**
+<p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
+    <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+</p>
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditiaPutra1212&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aditia's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiaPutra1212&layout=compact&theme=tokyonight&hide_border=true" alt="Aditia's Top Languages" />
+</p>
