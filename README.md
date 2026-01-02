@@ -73,16 +73,13 @@ My professional focus evolved from UI/UX design to robust **Backend Development*
   </a>
 </p>
 
+
 ### 📊 GitHub Activities
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditiaPutra1212&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiaPutra1212&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiaPutra1212&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aditiaPutra1212&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditiaPutra1212&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditiaPutra1212&theme=tokyonight" alt="GitHub Streak" />
 </p>
